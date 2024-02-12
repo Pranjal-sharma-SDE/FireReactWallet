@@ -118,7 +118,7 @@ If you'd like to contribute to the project, please follow the [Contribution Guid
 
 ## Contact Us
 
-For any questions or feedback, please reach out to us on the [Contact Us](https://firereactwallet.netlify.app/contact) page.
+For any questions or feedback, please reach out to us on the [Contact Us](https://firereactwallet.netlify.app/contactus) page.
 
 ## Acknowledgments
 
